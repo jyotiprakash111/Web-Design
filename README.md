@@ -1,2 +1,2 @@
 # Web-Design
-Just Simple Design Samples Using HTMl & CSS Only.
+Just Simple Design Samples Using HTML & CSS Only.
