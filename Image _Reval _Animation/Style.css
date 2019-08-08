@@ -71,7 +71,7 @@ body
      box-shadow: 0 10px 15px rgba(0,0,0,.2);
      transform: scaleX(0);
      transform-origin: left;
-     animation: reveal 1s reverse forwards;
+     animation: reveal 1s ease-in-out forwards;
      animation-delay: 1s;
      
  }
